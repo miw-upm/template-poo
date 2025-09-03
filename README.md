@@ -6,4 +6,5 @@
    * Cambiar el nombre del artefacto con el nuevo nombre
    * Establecer la matrícula de los participantes
    * Establecer el nombre y apellidos de los participantes
+4. Abrir con IntelliJ
 

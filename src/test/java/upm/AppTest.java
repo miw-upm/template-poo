@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 
 class AppTest {
     @Test
-    void testApp(){
+    void testApp() {
         assertDoesNotThrow(App::new);
     }
 }
